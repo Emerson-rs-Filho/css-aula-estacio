@@ -1,0 +1,15 @@
+.body{
+    background-color: black;
+}
+.atencao{
+    color: yellow;
+    text-align: center;
+}
+.perigo{
+    color: red;
+    text-align: center;
+}
+.info{
+    color: blue;
+    text-align: center;
+}

@@ -1,0 +1,6 @@
+.ph2{
+    display: none;
+}
+.ph2:hover .ph{
+    display: block;
+}
